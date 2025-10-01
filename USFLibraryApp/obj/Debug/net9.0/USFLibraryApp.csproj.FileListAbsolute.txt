@@ -1,0 +1,15 @@
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\bin\Debug\net9.0\USFLibraryApp.exe
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\bin\Debug\net9.0\USFLibraryApp.deps.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\bin\Debug\net9.0\USFLibraryApp.runtimeconfig.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\bin\Debug\net9.0\USFLibraryApp.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\bin\Debug\net9.0\USFLibraryApp.pdb
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.AssemblyInfoInputs.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.AssemblyInfo.cs
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.sourcelink.json
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\refint\USFLibraryApp.dll
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.pdb
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\USFLibraryApp.genruntimeconfig.cache
+C:\Users\Faisal\Desktop\2nd sem\app dev\GroupCompetition2\USFLibraryApp\obj\Debug\net9.0\ref\USFLibraryApp.dll
